@@ -1,2 +1,2 @@
 # smart-pointers
-rust smart pointers
+Conceptual implementation of smart pointers
